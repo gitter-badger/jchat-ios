@@ -22,7 +22,7 @@
 
 // 当前JMessage版本号
 #define JMESSAGE_VERSION @"2.0.6"
-#define JMESSAGE_BUILD @"280"
+#define JMESSAGE_BUILD @"281"
 
 extern NSInteger const JMESSAGE_API_VERSION;
 
